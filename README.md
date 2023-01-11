@@ -13,4 +13,5 @@ https://vm.davidfahim.repl.co/ Emulate many OS's. Variety includes Windows, Linu
 
 https://now.gg/play/uncube/7074/now Emulates an Android system in your browser. Usable on mobile, let's you install APK's for testing within the virtual chrome browser.
 
+Collab VM: https://computernewb.com/collab-vm/ Let's many people "collaborate" on a virtual machine. NOT RECOMMENDED FOR PRIVACY.
 
